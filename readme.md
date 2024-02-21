@@ -1,0 +1,3 @@
+Today is the 21st of February 2024. I have been pursuing a certificate in Software Engineering from ALX since May, 2023. My progress hasnt been all that since I imposter syndrome was crippling me. Today I decide to finally put in the effort I know I have the potential to. 
+In this repository, I will track my learning progress, what I have learnt, what resources did I use to learn as well as any other projects I build during this time. I will do this relentlessly until I exhaust every resource available or land a dream job as a software engineer. 
+If you are on the same path as I am, feel free to fork this repo and use the same resources I do. (This is in hopes that I land a job lol). Maybe the forces be with you!
